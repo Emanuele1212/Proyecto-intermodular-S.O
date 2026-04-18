@@ -7,5 +7,5 @@ He seleccionado dos sistemas operativos para este dominio, uno para el servidor 
 3. Creo varias carpetas, donde en cada una se encuentran sus respectivos departamentos y funciones.
 4. A parte de estas carpetas, tabien creo varios grupos donde se encuentras los respectivos departamentos.
 5. Administro los permisos de cada usuarios, donde Dirección tiene permiso de lectura, escritura y ejecución. Administracion tiene permiso de lectura y escritura, y Entrenadores tiene solo permiso de lectura.
-6. 
+6. Cambio y la direccion ip del servidor para poder conetcar el SO de los trabajadores y unir los dos SO en el dominio.
    
