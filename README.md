@@ -11,5 +11,7 @@ He seleccionado dos sistemas operativos para este dominio, uno para el servidor 
 7. Cambio el nombre del dominio a Gimnasio.local
 8. Compruebo quien puede coonectarse a las carpetas de los usuarios.
 9. Hago ping desde windwos 10 a servidor para ver si hay conexión entre los dos sistemas.
+10. Por ultimo compruebo que los trabajadores pueden conectarse con sus credenciales.
+11. Fin del trabajo.
 
    
